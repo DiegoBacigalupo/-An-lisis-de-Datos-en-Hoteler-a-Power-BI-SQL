@@ -1,6 +1,26 @@
 # 📊 Proyecto de Análisis en Hotelería – Power BI & SQL
 
-Este proyecto se centra en la **optimización de recursos y mejora de servicios en la industria hotelera**, analizando más de 3 años de datos de reservas.
+Este proyecto se centra en la optimización de recursos y la mejora de servicios en la industria hotelera.
+
+## 📷 Dashboards principales
+
+### Reservas
+![Reservas](imagenes/Captura%20de%20pantalla%202025-09-21%20220912.jpg)
+
+### Segmentación de clientes
+![Clientes](imagenes/Captura%20de%20pantalla%202025-09-21%20220938.jpg)
+
+### Recursos y Personal
+![Personal](imagenes/Captura%20de%20pantalla%202025-09-21%20220958.jpg)
+
+### Comportamiento del Cliente
+![Cliente](imagenes/Captura%20de%20pantalla%202025-09-21%20221014.jpg)
+
+### Cancelaciones y Tendencias
+![Cancelaciones](imagenes/Captura%20de%20pantalla%202025-09-21%20221031.jpg)
+
+### Vista General
+![General](imagenes/Captura%20de%20pantalla%202025-09-21%20221048.jpg)
 
 ## 🎯 Objetivos
 - Identificar áreas de mejora en la gestión hotelera.
